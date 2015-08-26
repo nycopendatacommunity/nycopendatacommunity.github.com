@@ -1,0 +1,12 @@
+# Site settings
+title: NYC Open Data Commmunity 
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  NYC Open Data Community is an open group committed to helping improve QA/QC on New York City's Open Data.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://nycopendatacommunity.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  
+
+# Build settings
+markdown: kramdown
